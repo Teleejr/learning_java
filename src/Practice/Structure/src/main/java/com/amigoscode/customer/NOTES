@@ -1,0 +1,6 @@
+Package Structure:
+1. Customer
+2. CustomerService
+3. CustomerConfig
+4. CustomerDAO
+5. CustomerController
